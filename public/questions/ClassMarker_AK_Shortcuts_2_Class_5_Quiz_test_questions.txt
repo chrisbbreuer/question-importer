@@ -1,0 +1,311 @@
+(Type): multiplechoice
+(Category): 0
+(Random answers): 0
+(Question): Which of the following is true about pre-test imagery?
+(A): People with a cranial fault can visualize the muscle being strong and make it go strong, while people without a cranial faults cannot.
+(B): If Governing Vessel (GV) 20 tests weak, it also means they have a cranial fault. This is on the midline at the apex of the head.
+(C): The three most common cranial faults are TMJ, occiput and sphenoid
+(D): All of the above
+(Correct): D
+(Points): 5
+(CF): Correct!
+(WF): No, All of the above are true.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 1
+(Question): Which of the following is not true about the TMJ?
+(A): Every single TMJ nerve pathway goes through the mesencephalon in the midbrain.
+(B): When you work on the TMJ it is a neurological back-up for the entire body.
+(C): An additional test is to TL the glabella to see if that makes the TMJ show up as you protrude and retract the jaw.
+(D): To correct press on the glabella with one hand as you press of the back of the head with the other as the patient touches the chin with two fingers and breathes in only one time.
+(Correct): D
+(Points): 5
+(CF): Correct!
+(WF): No, all are true except To correct press on the glabella with one hand as you press of the back of the head with the other as the patient touches the chin with two fingers and breathes in only one time.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 1
+(Question): Which of the following is not the correct pairing?
+(A): Dopamine is associated with the Frontal lobe
+(B): Acetylcholine is associated with the Parietal lobe
+(C): GABA is associated with the Cerebellum
+(D): Serotonin is associated with the Occipital lobe
+(Correct): C
+(Points): 5
+(CF): Great work!
+(WF): No, all are correct except GABA is associated with the Cerebellum.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): To test for a deficiency of the four primary neurotransmitters, point the edge of a magnet straight in at each of the four corresponding cranial bones and test an indicator muscle to see if it changes, indicating an imbalance in the neurotransmitter.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Excellent!
+(WF): No, it's true.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 1
+(Question): Which of the following is not the accurate acupuncture points for determining the neurotransmitter imbalances?
+(A): Dopamine: High - GV 27. Low: CV 24
+(B): Acetylcholine: High - Liv 14. Low - GB 1
+(C): GABA: High - LU 1. Low: LI 20
+(D): Serotonin: High - BL 1. Low: K 27
+(Correct): D
+(Points): 5
+(CF): Great work!
+(WF): No, all are accurate except Serotonin: High - BL 1. Low: K 27.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 1
+(Question): Which of the following is NOT true?
+(A): To produce more Serotonin give the patient Tryptophan
+(B): To produce more Dopamine give the patient Tyrosine
+(C): To produce more Acetylcholine give the patient Choline
+(D): To produce more GABA give the patient Phenylalanine
+(Correct): D
+(Points): 5
+(CF): Outstanding!
+(WF): No, the statement "to produce more GABA give the patient Phenylalanine" is not true.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): In the Brain on Fire condition the brain is in overdrive and you cannot turn off the muscle associated with the brain - Supraspinatus.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Stellar!
+(WF): No, it's true.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 0
+(Question): Which one of the following is the correction for it?
+(A): Put a magnet on the supraspinatus muscle for several minutes to sedate it
+(B): Fix switching and balance the neurotransmitters
+(C): Put ice packs on the head to cool the brain down
+(D): All of the above
+(Correct): B
+(Points): 5
+(CF): Great!
+(WF): No, it's Fix switching and balance the neurotransmitters.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 1
+(Question): For victimization technique, as the patient repeats, "My heart is filled with love and forgiveness." which acupuncture point should you tap?
+(A): The point on the hand that reverses the weakness when they think about the victimization
+(B): The alarm point that reverses the weakness when they think about the victimization
+(C): The point on the face that reverses the weakness when they think about the victimization
+(D): The point on the torso that reverses the weakness when they think about the victimization
+(Correct): C
+(Points): 5
+(CF): Perfect!
+(WF): No, it's The point on the face that reverses the weakness when they think about the victimization.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): The glaucoma correction is a cranial fault of the ethmoid bone and involves pressing diagonally on the cranium ten times in only one direction as the patient breathes in.
+(A): True
+(B): False
+(Correct): B
+(Points): 5
+(CF): Correct!
+(WF): No, it's false.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 1
+(Question): Which of the following statements is not accurate regarding the eye exercises?
+(A): If the patient looks at a near object and then at a far object and they test weak, they are nearsighted
+(B): The shape of the eyeball is determined by the extraocular muscles
+(C): Farsighted people need more acetylcholine and can benefit from choline
+(D): Nearsighted people need more dopamine and can benefit from tryptophan
+(Correct): D
+(Points): 5
+(CF): Perfect!
+(WF): No, the following statement is not accurate: Nearsighted people need more dopamine and can benefit from tryptophan.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): The eye exercises involve palming, convergence/divergence, tracking and peripheral vision
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Fabulous!
+(WF): No, it's true.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): A person's body type is determined by the angle between the two sides of the bottom of their rib cage. If it is an acute angle they are an ectomorph and have a thin frame and a short intestinal tract. If it is an obtuse angle they are an endomorph with a heavy frame and have a long intestinal tract.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Nice job!
+(WF): No, it's true.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 0
+(Question): Which of the following is true?
+(A): Ectomorphs have issues with the nervous system and digestion and need omega 6 oils and can slow down the rate food moves through them by taking a teaspoon of oil with each meal to absorb more of their nutrients.
+(B): Endomorphs have issues with the heart and joints and need omega 3 oils and can speed up the rate food moves through them by taking a teaspoon of psyllium seeds with each meal.
+(C): Mesomorphs need a balance of Omega 3 and Omega 6
+(D): All of the Above
+(Correct): D
+(Points): 5
+(CF): Nice work!
+(WF): No, All of the Above are are.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): The main reason we get food allergies is because we eat the same food every day.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Great!
+(WF): No, it's true.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): To help leg cramps at night Sprinkle Ivory Soap Flakes in between the sheets and it will improve leg cramps and also help Restless Leg Syndrome, which can also be helped from calcium supplementation.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Fantastic!
+(WF): No, it's true.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): Fibromyalgia can be helped by injections of magnesium sulfate into the muscles.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Correct!
+(WF): No, it's true.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 1
+(Question): When a person has a dream where they are paralyzed and they cannot move or speak what is the point that should be tapped bilaterally as the person thinks about the dream?
+(A): ST 1
+(B): TW 23
+(C): SI 19
+(D): LI 20
+(Correct): C
+(Points): 5
+(CF): Superb!
+(WF): No, it's SI 19.
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): Shining a light on the back of the knee for about 10 seconds can help correct insomnia, along with correcting dural torque and pressing in on the glabella and the back of the head as the person breathes in about seven times.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Excellent!
+(WF): No, it's true.
+
+
+(Type): multiplechoice
+(Category): 0
+(Random answers): 0
+(Question): Which about the TS line is not true?
+(A): Tap on the left side for positive affirmations from front to back in a circle
+(B): Tap on the right side for negative affirmations
+(C): A shortcut correction is to have the patient put one hand on a lesion and tap on the TS line on the left around 7 times and it will correct the lesion.
+(D): All of the above
+(Correct): D
+(Points): 5
+(CF): Nice work!
+(WF): No, all of the above are true.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): To test for a deficiency of the four primary neurotransmitters, point the edge of a magnet straight in at each of the four corresponding cranial bones and test an indicator muscle to see if it changes, indicating an imbalance in the neurotransmitter.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Excellent!
+(WF): No, it's true.
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): Shining a light on the back of the knee for about 10 seconds can help correct insomnia, along with correcting dural torque and pressing in on the glabella and the back of the head as the person breathes in about seven times.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Excellent!
+(WF): No, it's true.
+
+(Type): truefalse
+(Category): 0
+(Random answers): 0
+(Question): A person's body type is determined by the angle between the two sides of the bottom of their rib cage. If it is an acute angle they are an ectomorph and have a thin frame and a short intestinal tract. If it is an obtuse angle they are an endomorph with a heavy frame and have a long intestinal tract.
+(A): True
+(B): False
+(Correct): A
+(Points): 5
+(CF): Nice job!
+(WF): No, it's true.

@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wpProQuiz><header version="0.28" exportVersion="1"/>
+    <data>
+        <quiz>
+            <title titleHidden="false">
+                <![CDATA[Test Name]]>
+            </title>
+            <text>
+                <![CDATA[AAZZAAZZ]]>
+            </text>
+            <resultText gradeEnabled="false">
+                <![CDATA[]]>
+            </resultText>
+            <btnRestartQuizHidden>false</btnRestartQuizHidden>
+            <btnViewQuestionHidden>false</btnViewQuestionHidden>
+            <questionRandom>true</questionRandom>
+            <answerRandom>false</answerRandom>
+            <timeLimit>0</timeLimit>
+            <showPoints>false</showPoints>
+            <statistic activated="false" ipLock="0"/>
+            <quizRunOnce type="1" cookie="false" time="0">false</quizRunOnce>
+            <numberedAnswer>false</numberedAnswer>
+            <hideAnswerMessageBox>false</hideAnswerMessageBox>
+            <disabledAnswerMark>false</disabledAnswerMark>
+            <showMaxQuestion showMaxQuestionValue="1" showMaxQuestionPercent="false">false</showMaxQuestion>
+            <toplist activated="false">
+                <toplistDataAddPermissions>1</toplistDataAddPermissions>
+                <toplistDataSort>1</toplistDataSort>
+                <toplistDataAddMultiple>false</toplistDataAddMultiple>
+                <toplistDataAddBlock>1</toplistDataAddBlock>
+                <toplistDataShowLimit>1</toplistDataShowLimit>
+                <toplistDataShowIn>0</toplistDataShowIn>
+                <toplistDataCaptcha>false</toplistDataCaptcha>
+                <toplistDataAddAutomatic>false</toplistDataAddAutomatic>
+            </toplist>
+            <showAverageResult>false</showAverageResult>
+            <prerequisite>false</prerequisite>
+            <showReviewQuestion>false</showReviewQuestion>
+            <quizSummaryHide>false</quizSummaryHide>
+            <skipQuestionDisabled>false</skipQuestionDisabled>
+            <emailNotification>1</emailNotification>
+            <userEmailNotification>true</userEmailNotification>
+            <showCategoryScore>false</showCategoryScore>
+            <hideResultCorrectQuestion>false</hideResultCorrectQuestion>
+            <hideResultQuizTime>false</hideResultQuizTime>
+            <hideResultPoints>false</hideResultPoints>
+            <autostart>false</autostart>
+            <forcingQuestionSolve>false</forcingQuestionSolve>
+            <hideQuestionPositionOverview>false</hideQuestionPositionOverview>
+            <hideQuestionNumbering>false</hideQuestionNumbering>
+            <sortCategories>false</sortCategories>
+            <showCategory>false</showCategory>
+            <quizModus questionsPerPage="0">2</quizModus>
+            <startOnlyRegisteredUser>false</startOnlyRegisteredUser>
+            <forms activated="false" position="0"/>
+            <questions><question answerType="single">
+                    <title>
+                        <![CDATA[Which of the following is true about pre-test imagery?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which of the following is true about pre-test imagery?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Correct!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, All of the above are true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[People with a cranial fault can visualize the muscle being strong and make it go strong, while people without a cranial faults cannot.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[If Governing Vessel (GV) 20 tests weak, it also means they have a cranial fault. This is on the midline at the apex of the head.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[The three most common cranial faults are TMJ, occiput and sphenoid]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[All of the above]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Which of the following is not true about the TMJ?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which of the following is not true about the TMJ?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Correct!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, all are true except To correct press on the glabella with one hand as you press of the back of the head with the other as the patient touches the chin with two fingers and breathes in only one time.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Every single TMJ nerve pathway goes through the mesencephalon in the midbrain.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[When you work on the TMJ it is a neurological back-up for the entire body.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[An additional test is to TL the glabella to see if that makes the TMJ show up as you protrude and retract the jaw.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[To correct press on the glabella with one hand as you press of the back of the head with the other as the patient touches the chin with two fingers and breathes in only one time.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Which of the following is not the correct pairing?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which of the following is not the correct pairing?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Great work!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, all are correct except GABA is associated with the Cerebellum.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Dopamine is associated with the Frontal lobe]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Acetylcholine is associated with the Parietal lobe]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[GABA is associated with the Cerebellum]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Serotonin is associated with the Occipital lobe]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[To test for a deficiency of the four primary neurotransmitters, point the edge of a magnet straight in at each of the four corresponding cranial bones and test an indicator muscle to see if...]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[To test for a deficiency of the four primary neurotransmitters, point the edge of a magnet straight in at each of the four corresponding cranial bones and test an indicator muscle to see if it changes, indicating an imbalance in the neurotransmitter.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Excellent!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Which of the following is not the accurate acupuncture points for determining the neurotransmitter imbalances?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which of the following is not the accurate acupuncture points for determining the neurotransmitter imbalances?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Great work!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, all are accurate except Serotonin: High - BL 1. Low: K 27.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Dopamine: High - GV 27. Low: CV 24]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Acetylcholine: High - Liv 14. Low - GB 1]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[GABA: High - LU 1. Low: LI 20]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[Serotonin: High - BL 1. Low: K 27]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Which of the following is NOT true?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which of the following is NOT true?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Outstanding!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, the statement "to produce more GABA give the patient Phenylalanine" is not true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[To produce more Serotonin give the patient Tryptophan]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[To produce more Dopamine give the patient Tyrosine]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[To produce more Acetylcholine give the patient Choline]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[To produce more GABA give the patient Phenylalanine]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[In the Brain on Fire condition the brain is in overdrive and you cannot turn off the muscle associated with the brain - Supraspinatus.]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[In the Brain on Fire condition the brain is in overdrive and you cannot turn off the muscle associated with the brain - Supraspinatus.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Stellar!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Which one of the following is the correction for it?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which one of the following is the correction for it?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Great!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's Fix switching and balance the neurotransmitters.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Put a magnet on the supraspinatus muscle for several minutes to sedate it]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[Fix switching and balance the neurotransmitters]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Put ice packs on the head to cool the brain down]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[All of the above]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[For victimization technique, as the patient repeats, "My heart is filled with love and forgiveness." which acupuncture point should you tap?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[For victimization technique, as the patient repeats, "My heart is filled with love and forgiveness." which acupuncture point should you tap?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Perfect!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's The point on the face that reverses the weakness when they think about the victimization.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[The point on the hand that reverses the weakness when they think about the victimization]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[The alarm point that reverses the weakness when they think about the victimization]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[The point on the face that reverses the weakness when they think about the victimization]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[The point on the torso that reverses the weakness when they think about the victimization]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[The glaucoma correction is a cranial fault of the ethmoid bone and involves pressing diagonally on the cranium ten times in only one direction as the patient breathes in.]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[The glaucoma correction is a cranial fault of the ethmoid bone and involves pressing diagonally on the cranium ten times in only one direction as the patient breathes in.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Correct!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's false.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Which of the following statements is not accurate regarding the eye exercises?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which of the following statements is not accurate regarding the eye exercises?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Perfect!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, the following statement is not accurate: Nearsighted people need more dopamine and can benefit from tryptophan.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[If the patient looks at a near object and then at a far object and they test weak, they are nearsighted]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[The shape of the eyeball is determined by the extraocular muscles]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Farsighted people need more acetylcholine and can benefit from choline]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[Nearsighted people need more dopamine and can benefit from tryptophan]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[The eye exercises involve palming, convergence/divergence, tracking and peripheral vision]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[The eye exercises involve palming, convergence/divergence, tracking and peripheral vision]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Fabulous!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[A person's body type is determined by the angle between the two sides of the bottom of their rib cage. If it is an acute angle they are an ectomorph and have a thin frame and a short intesti...]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[A person's body type is determined by the angle between the two sides of the bottom of their rib cage. If it is an acute angle they are an ectomorph and have a thin frame and a short intestinal tract. If it is an obtuse angle they are an endomorph with a heavy frame and have a long intestinal tract.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Nice job!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Which of the following is true?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which of the following is true?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Nice work!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, All of the Above are are.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Ectomorphs have issues with the nervous system and digestion and need omega 6 oils and can slow down the rate food moves through them by taking a teaspoon of oil with each meal to absorb more of their nutrients.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Endomorphs have issues with the heart and joints and need omega 3 oils and can speed up the rate food moves through them by taking a teaspoon of psyllium seeds with each meal.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Mesomorphs need a balance of Omega 3 and Omega 6]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[All of the Above]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[The main reason we get food allergies is because we eat the same food every day.]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[The main reason we get food allergies is because we eat the same food every day.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Great!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[To help leg cramps at night Sprinkle Ivory Soap Flakes in between the sheets and it will improve leg cramps and also help Restless Leg Syndrome, which can also be helped from calcium supplem...]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[To help leg cramps at night Sprinkle Ivory Soap Flakes in between the sheets and it will improve leg cramps and also help Restless Leg Syndrome, which can also be helped from calcium supplementation.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Fantastic!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Fibromyalgia can be helped by injections of magnesium sulfate into the muscles.]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Fibromyalgia can be helped by injections of magnesium sulfate into the muscles.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Correct!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[When a person has a dream where they are paralyzed and they cannot move or speak what is the point that should be tapped bilaterally as the person thinks about the dream?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[When a person has a dream where they are paralyzed and they cannot move or speak what is the point that should be tapped bilaterally as the person thinks about the dream?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Superb!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's SI 19.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[ST 1]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[TW 23]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[SI 19]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[LI 20]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Shining a light on the back of the knee for about 10 seconds can help correct insomnia, along with correcting dural torque and pressing in on the glabella and the back of the head as the per...]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Shining a light on the back of the knee for about 10 seconds can help correct insomnia, along with correcting dural torque and pressing in on the glabella and the back of the head as the person breathes in about seven times.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Excellent!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Which about the TS line is not true?]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Which about the TS line is not true?]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Nice work!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, all of the above are true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Tap on the left side for positive affirmations from front to back in a circle]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[Tap on the right side for negative affirmations]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[A shortcut correction is to have the patient put one hand on a lesion and tap on the TS line on the left around 7 times and it will correct the lesion.]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[All of the above]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[To test for a deficiency of the four primary neurotransmitters, point the edge of a magnet straight in at each of the four corresponding cranial bones and test an indicator muscle to see if...]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[To test for a deficiency of the four primary neurotransmitters, point the edge of a magnet straight in at each of the four corresponding cranial bones and test an indicator muscle to see if it changes, indicating an imbalance in the neurotransmitter.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Excellent!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[Shining a light on the back of the knee for about 10 seconds can help correct insomnia, along with correcting dural torque and pressing in on the glabella and the back of the head as the per...]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[Shining a light on the back of the knee for about 10 seconds can help correct insomnia, along with correcting dural torque and pressing in on the glabella and the back of the head as the person breathes in about seven times.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Excellent!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question><question answerType="single">
+                    <title>
+                        <![CDATA[A person's body type is determined by the angle between the two sides of the bottom of their rib cage. If it is an acute angle they are an ectomorph and have a thin frame and a short intesti...]]>
+                    </title>
+                    <points>5</points>
+                    <questionText>
+                        <![CDATA[A person's body type is determined by the angle between the two sides of the bottom of their rib cage. If it is an acute angle they are an ectomorph and have a thin frame and a short intestinal tract. If it is an obtuse angle they are an endomorph with a heavy frame and have a long intestinal tract.]]>
+                    </questionText>
+                    <correctMsg>
+                        <![CDATA[Nice job!]]>
+                    </correctMsg>
+                    <incorrectMsg>
+                        <![CDATA[No, it's true.]]>
+                    </incorrectMsg>
+                    <tipMsg enabled="false">
+                        <![CDATA[]]>
+                    </tipMsg><category/>
+                    <correctSameText>false</correctSameText>
+                    <showPointsInBox>false</showPointsInBox>
+                    <answerPointsActivated>false</answerPointsActivated>
+                    <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+                    <disableCorrect>false</disableCorrect>
+                    <answers>
+                        <answer points="0" correct="true">
+                            <answerText html="false">
+                                <![CDATA[True]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer><answer points="0" correct="false">
+                            <answerText html="false">
+                                <![CDATA[False]]>
+                            </answerText>
+                            <stortText html="false">
+                                <![CDATA[]]>
+                            </stortText>
+                        </answer>
+                    </answers>
+                </question></questions></quiz></data></wpProQuiz>
